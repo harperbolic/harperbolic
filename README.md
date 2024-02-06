@@ -1,5 +1,8 @@
-### Hi there 👋
+I like games and free software
 
+- 🗣️ en/pt/jp
+- 💬 I don't use many social networks
+- 🌐 My website is https://harper.rocks
 <!--
 **harperbolic/harperbolic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
